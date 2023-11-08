@@ -2,8 +2,8 @@
 
 ##Ejercicio 1: Variables y Tipos de Datos
 
-  -Declara una variable llamada nombre y asígnale tu nombre.
-  -Crea una variable llamada edad y asígnale tu edad.
+  Declara una variable llamada nombre y asígnale tu nombre.
+  -Crea un-a variable llamada edad y asígnale tu edad.
   -Declara una variable llamada esEstudiante y asígnale true si eres estudiante o false si no lo eres.
 
 ##Ejercicio 2: Funciones y Parámetros
